@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* this below is referenced in the "Personcard.js", "Puttingittogether.js" file with className "box" */
+.box {
+  background-color: blanchedalmond;
+}
